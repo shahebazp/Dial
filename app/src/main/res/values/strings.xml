@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_add_call">Add Call</string>
+    <string name="action_answer">Swipe up to Answer</string>
+    <string name="action_call">Call</string>
+    <string name="action_end_call">End Call</string>
+    <string name="action_keypad">Keypad</string>
+    <string name="action_message">Message</string>
+    <string name="action_more">More</string>
+    <string name="action_mute">Mute</string>
+    <string name="action_reject">Swipe down to Reject</string>
+    <string name="action_speaker">Speaker</string>
+    <string name="app_name">DIAL</string>
+    <string name="heading_calling">CALLING...</string>
+    <string name="heading_connected">CONNECTED</string>
+    <string name="heading_incoming_call">INCOMING CALL</string>
+    <string name="heading_post_call">CALL SUMMARY</string>
+    <string name="nav_contacts">CONTACTS</string>
+    <string name="nav_keypad">KEYPAD</string>
+    <string name="nav_recents">RECENTS</string>
+    <string name="notification_channel_incoming_calls">Incoming Calls</string>
+    <string name="notification_channel_ongoing_calls">Ongoing Calls</string>
+    <style name="Theme.MyApplication" parent="android:Theme.DeviceDefault.NoActionBar"/>
+</resources>

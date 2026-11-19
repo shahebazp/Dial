@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Nothing-inspired geometric dotted ring and bold phone receiver silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,33 C42,30.8 43.8,29 46,29 L51,29 C52.7,29 54.1,30.1 54.6,31.7 L56.8,38.3 C57.3,39.7 56.9,41.3 55.8,42.3 L51.9,46.2 C54.7,51.6 59.1,56.0 64.5,58.8 L68.4,54.9 C69.4,53.8 71.0,53.4 72.4,53.9 L79.0,56.1 C80.6,56.6 81.7,58.0 81.7,59.7 L81.7,64.7 C81.7,66.9 79.9,68.7 77.7,68.7 C58.0,68.7 42.0,52.7 42.0,33 Z" />
+    <!-- Nothing Red recording/status accent dot -->
+    <path
+        android:fillColor="#D71921"
+        android:pathData="M70,38 m-6,0 a6,6 0 1,1 12,0 a6,6 0 1,1 -12,0" />
+    <!-- Dot matrix grid accents -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M34,62 m-2,0 a2,2 0 1,1 4,0 a2,2 0 1,1 -4,0 M34,70 m-2,0 a2,2 0 1,1 4,0 a2,2 0 1,1 -4,0 M42,70 m-2,0 a2,2 0 1,1 4,0 a2,2 0 1,1 -4,0" />
+</vector>

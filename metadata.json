@@ -1,0 +1,6 @@
+{
+  "name": "DIAL",
+  "description": "A Nothing OS-inspired Android phone dialer with native Telecom integration, smart incoming call banners, and T9 search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
